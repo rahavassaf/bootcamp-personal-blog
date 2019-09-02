@@ -4,4 +4,4 @@ I built this blog app as a way to learn Git and & GitHub. Going forward I'll kee
 
 Check back soon!
 
-![Blog Screenshot][assets/images/screenshot.png]
+<img src="assets/images/screenshot.png" alt="Blog Screenshot">
